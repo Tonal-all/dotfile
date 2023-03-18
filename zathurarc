@@ -1,0 +1,5 @@
+set default-bg "#ecedb0"
+set recolor-lightcolor "#ECEDB0"
+
+set recolor-darkcolor black
+set recolor true
